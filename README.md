@@ -5,15 +5,22 @@
 </div>
 
 <div align="center">
+  
   <a href="https://srija.tanniru.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-SRIJA__COCKPIT__V4.0-700c20?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:srimail.tanniru.me" target="_blank">
+  <a href="mailto:tannirusrija@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/srija-kakarla" target="_blank">
+  <a href="https://www.linkedin.com/in/srijatanniru/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  <br />
+  <br />
+
+  <!-- Trendy Profile Views Counter (Optional but looks great on GitHub!) -->
+  <img src="https://komarev.com/ghpvc/?username=srijatanniru&color=700c20&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
