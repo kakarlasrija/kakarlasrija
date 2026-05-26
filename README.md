@@ -19,11 +19,7 @@
   <br />
   <br />
 
-  <!-- Trendy Profile Views Counter (Optional but looks great on GitHub!) -->
-  <img src="https://komarev.com/ghpvc/?username=srijatanniru&color=700c20&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
----
 
 ### 🚀 About Me
 I am a senior **Full-Stack Java Engineer** and **AI System Developer** with over 7 years of professional experience designing, building, and deploying highly scalable, distributed backend architectures, microservices, and interactive web applications. 
